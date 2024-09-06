@@ -10,7 +10,25 @@
 
 Welcome to my GitHub! I am a **Software Developer** with 1.8 years of experience in **JavaScript**, **React JS**, and **Node JS**, currently working at GlobalLogic. Here, you'll find some of my projects where I develop user-centric solutions using cutting-edge technologies.
 
-## Projects
+---
+
+## 🧑‍💻 LeetCode Profile and Problem-Solving Stats
+
+Here are my **LeetCode** stats:
+
+- **LeetCode Profile**: [Narvdeshwar's LeetCode Profile](https://leetcode.com/u/Narvdeshwar/)
+  
+![LeetCode](https://img.shields.io/badge/LeetCode-Easy%20Solved%20:%20120-brightgreen)
+![LeetCode](https://img.shields.io/badge/LeetCode-Medium%20Solved%20:%2070-yellow)
+![LeetCode](https://img.shields.io/badge/LeetCode-Hard%20Solved%20:%2025-red)
+
+- **Total Solved:** 215
+
+> Stats fetched using [LeetCode Stats API](https://leetcode-stats-api.herokuapp.com/Narvdeshwar)
+
+---
+
+## 🚀 Projects
 
 ### 1. [E-commerce App](https://github.com/Narvdeshwar/mern)
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Redux
@@ -28,13 +46,15 @@ Welcome to my GitHub! I am a **Software Developer** with 1.8 years of experience
 - Developed a real-time chat application with a backend powered by Node.js and WebSockets.
 - Features include user online/offline status display.
 
-### 3. Responsive NewsApp with Infinite Scroll
+### 3. [Responsive NewsApp with Infinite Scroll](https://github.com/Narvdeshwar/newsApp)
 **Tech Stack:** ReactJS, Bootstrap, NewsAPI
 
 - Built a single-page application that dynamically fetches and displays the latest news using NewsAPI.
 - Implemented infinite scroll to improve user experience by loading content as users scroll.
 
-## Skills
+---
+
+## 💻 Skills
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 - ![ReactJS](https://img.shields.io/badge/ReactJS-Frontend-blue)
@@ -48,12 +68,16 @@ Welcome to my GitHub! I am a **Software Developer** with 1.8 years of experience
 - ![VSCode](https://img.shields.io/badge/VSCode-IDE-blue)
 - ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
 
-## Certifications
+---
+
+## 🎓 Certifications
 
 - **Web Development Training** - Techsrijan Consultancy Pvt Ltd
 - **Certification in Personality Development** - Mahindra Pride Classroom
 
-## Contact
+---
+
+## 📞 Contact
 
 - **LinkedIn:** [Narvdeshwar](https://www.linkedin.com/in/narvdeshwar/)
 - **GitHub:** [Narvdeshwar](https://github.com/Narvdeshwar)
