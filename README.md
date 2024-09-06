@@ -41,13 +41,16 @@ Welcome to my GitHub! I am a **Software Developer** with 1.8 years of experience
 - ![NodeJS](https://img.shields.io/badge/NodeJS-Backend-orange)
 - ![ExpressJS](https://img.shields.io/badge/ExpressJS-Backend%20Framework-lightgrey)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+- ![SQL](https://img.shields.io/badge/SQL-Database-blue)
+- ![HTML](https://img.shields.io/badge/HTML-Frontend-orange)
+- ![CSS](https://img.shields.io/badge/CSS-Styling-blueviolet)
 - ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 - ![VSCode](https://img.shields.io/badge/VSCode-IDE-blue)
 - ![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
 
 ## Certifications
 
-- **Diploma in Computer Science Engineering** - Techsrijan Consultancy Pvt Ltd
+- **Web Development Training** - Techsrijan Consultancy Pvt Ltd
 - **Certification in Personality Development** - Mahindra Pride Classroom
 
 ## Contact
