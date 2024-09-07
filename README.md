@@ -17,16 +17,15 @@ Welcome to my GitHub! I am a **Software Developer** with 1.8 years of experience
 Here are my **LeetCode** stats:
 
 - **LeetCode Profile**: [Narvdeshwar's LeetCode Profile](https://leetcode.com/u/Narvdeshwar/)
-  
-![LeetCode](https://img.shields.io/badge/LeetCode-Easy%20Solved%20:%20120-brightgreen)
-![LeetCode](https://img.shields.io/badge/LeetCode-Medium%20Solved%20:%2070-yellow)
-![LeetCode](https://img.shields.io/badge/LeetCode-Hard%20Solved%20:%2025-red)
 
-- **Total Solved:** 215
+![LeetCode-Easy](https://img.shields.io/badge/Easy%20Solved-120-brightgreen?style=for-the-badge&logo=leetcode)
+![LeetCode-Medium](https://img.shields.io/badge/Medium%20Solved-70-yellow?style=for-the-badge&logo=leetcode)
+![LeetCode-Hard](https://img.shields.io/badge/Hard%20Solved-25-red?style=for-the-badge&logo=leetcode)
+
+- **Total Problems Solved:** ![Total Solved](https://img.shields.io/badge/Total%20Solved-215-blue?style=for-the-badge&logo=leetcode)
 
 > Stats fetched using [LeetCode Stats API](https://leetcode-stats-api.herokuapp.com/Narvdeshwar)
 
----
 
 ## 🚀 Projects
 
