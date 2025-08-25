@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
 Welcome to my GitHub!
-I am a Software Developer with more than 2 years of experience in JavaScript, React JS, and Node JS. I worked at GlobalLogic Inc. from December 2022 to November 2024 and am currently working at XenelSoft since November 2024. Here, you'll find some of my projects where I develop user-centric solutions using cutting-edge technologies.
+I am a Software Developer having ~3 years of experience in Java, SpringBoot, SQL, JavaScript, React JS, and Node JS. I worked at GlobalLogic Inc. from December 2022 to November 2024 and am currently working at XenelSoft since November 2024. Here, you'll find some of my projects where I develop user-centric solutions using cutting-edge technologies.
 
 ---
 
