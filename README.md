@@ -24,9 +24,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</picture>
 
-Hey there! I'm **Narvdeshwar**, a passionate Full Stack Developer with over **3 years of hands-on experience** building scalable web applications. I specialize in the **MERN Stack** and have a growing expertise in **Go (Golang)** for high-performance backend services.
+<div>
+
+Hey there! 👋 I'm **Narvdeshwar**, a passionate Full Stack Developer with over **3 years of hands-on experience** building scalable web applications. I specialize in the **MERN Stack** and have a growing expertise in **Go (Golang)** for high-performance backend services.</div>
 
 **What I Do:**
 - 🚀 Build full-stack web applications from concept to deployment
@@ -39,7 +44,7 @@ Hey there! I'm **Narvdeshwar**, a passionate Full Stack Developer with over **3 
 - 🌱 Deepening my knowledge in system design and microservices architecture
 - 💼 Open to full-time opportunities where I can make an impact
 - 🤝 Available for immediate joining
-- 📍 Based in Faridabad, Haryana, India
+- 📍 Based in New Delhi, India
 
 <br clear="right"/>
 
@@ -51,15 +56,43 @@ Hey there! I'm **Narvdeshwar**, a passionate Full Stack Developer with over **3 
 
 <div align="center">
 
-| Technology | Experience | Proficiency |
-|:----------:|:----------:|:-----------:|
-| **React.js** | 3+ Years | ⭐⭐⭐⭐⭐ |
-| **Node.js & Express** | 3+ Years | ⭐⭐⭐⭐⭐ |
-| **MongoDB** | 3+ Years | ⭐⭐⭐⭐⭐ |
-| **Go (Golang)** | 1+ Year | ⭐⭐⭐⭐ |
-| **Redux** | 2+ Years | ⭐⭐⭐⭐ |
-| **RESTful APIs** | 3+ Years | ⭐⭐⭐⭐⭐ |
-| **Git & GitHub** | 3+ Years | ⭐⭐⭐⭐⭐ |
+<table>
+<tr>
+<th>Technology</th>
+<th>Experience</th>
+<th>Proficiency</th>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=react" width="20"/> <b>React.js</b></td>
+<td>3+ Years</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=nodejs" width="20"/> <b>Node.js & Express</b></td>
+<td>3+ Years</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=mongodb" width="20"/> <b>MongoDB</b></td>
+<td>3+ Years</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=go" width="20"/> <b>Go (Golang)</b></td>
+<td>1+ Year</td>
+<td>⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=redux" width="20"/> <b>Redux</b></td>
+<td>2+ Years</td>
+<td>⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git" width="20"/> <b>Git & GitHub</b></td>
+<td>3+ Years</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+</table>
 
 </div>
 
@@ -315,7 +348,7 @@ A robust backend API for restaurant management that handles everything from menu
 
 <br/>
 
-**📍 Location:** Faridabad, Haryana, India  
+**📍 Location:** New Delhi, India  
 **💼 Status:** Open to full-time opportunities  
 **📅 Availability:** Immediate joining possible
 
@@ -573,7 +606,7 @@ I'm looking for a role where I can contribute to meaningful projects, continue l
 - Solving challenging problems
 
 **Status:** Available for immediate joining  
-**Location:** Faridabad, Haryana, India (Open to relocation)  
+**Location:** New Delhi, India (Open to relocation)  
 **Work Mode:** Open to remote, hybrid, or on-site opportunities
 
 <br/>
