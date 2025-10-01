@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=NARVDESHWAR&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=NARVDESHWAR&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full+Stack+Developer;MERN+Stack+Specialist+%7C+Go+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
-<br/><br/><br/><br/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%7C+Go+Enthusiast;Building+Scalable+Web+Applications+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -292,8 +290,8 @@ const upcoming = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Narvdeshwar&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6b7280&sideLabels=8b5cf6" alt="GitHub Streak" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Narvdeshwar&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6b7280&sideLabels=8b5cf6" alt="GitHub Streak" />
 
 </div>
 
@@ -301,8 +299,8 @@ const upcoming = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narvdeshwar&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=Jupyter%20Notebook" alt="Top Languages" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Narvdeshwar&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=8b5cf6" alt="Top Contributed Repo" />
+<img width="48%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narvdeshwar&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=Jupyter%20Notebook" alt="Top Languages" />
+<img width="48%" height="250px" src="https://github-contributor-stats.vercel.app/api?username=Narvdeshwar&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=8b5cf6" alt="Top Contributed Repo" />
 
 </div>
 
