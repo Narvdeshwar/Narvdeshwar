@@ -2,7 +2,7 @@
 
 ![Software Developer](https://img.shields.io/badge/Software%20Developer-ReactJS%20%7C%20NodeJS%20%7C%20MongoDB-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![ReactJS](https://img.shields.io/badge/ReactJS-1.8%20years%20experience-brightgreen)
+![ReactJS](https://img.shields.io/badge/ReactJS-3%20years%20experience-brightgreen)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Backend%20Development-orange)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database%20Expert-green)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-Backend%20Framework-lightgrey)
