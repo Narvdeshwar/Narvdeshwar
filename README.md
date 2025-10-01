@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full+Stack+Developer+with+3%2B+Years;MERN+Stack+%7C+Go+%7C+Microservices;Building+Scalable+Production+Applications;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full+Stack+Developer+with+3%2B+Years+Experience;MERN+Stack+%7C+Go+%7C+Cloud+Technologies;Building+Scalable+Web+Applications;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -26,32 +26,20 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
-```javascript
-const narvdeshwar = {
-    role: "Full Stack Developer",
-    experience: "3+ years",
-    location: "Faridabad, Haryana, India",
-    availability: "Open to Full-Time Opportunities",
-    
-    expertise: {
-        frontend: ["React.js", "Redux", "TypeScript", "Responsive Design"],
-        backend: ["Node.js", "Express.js", "Go (Golang)", "RESTful APIs"],
-        database: ["MongoDB", "MySQL", "Database Design"],
-        tools: ["Git", "Docker", "Postman", "VS Code"]
-    },
-    
-    highlights: {
-        projects: "Production-ready MERN Stack Applications",
-        problemSolving: "Active LeetCode Problem Solver",
-        learning: "Continuously updating skills",
-        collaboration: "Team player with Agile experience"
-    },
-    
-    currentFocus: "Building scalable microservices & system design",
-    
-    contact: "Available for immediate joining"
-};
-```
+Hey there! I'm **Narvdeshwar**, a passionate Full Stack Developer with over **3 years of hands-on experience** building scalable web applications. I specialize in the **MERN Stack** and have a growing expertise in **Go (Golang)** for high-performance backend services.
+
+**What I Do:**
+- 🚀 Build full-stack web applications from concept to deployment
+- 💡 Create RESTful APIs and microservices that scale
+- 🎨 Design responsive and user-friendly interfaces
+- 🔧 Solve complex problems with clean, maintainable code
+- 📚 Continuously learn and adapt to new technologies
+
+**Currently:**
+- 🌱 Deepening my knowledge in system design and microservices architecture
+- 💼 Open to full-time opportunities where I can make an impact
+- 🤝 Available for immediate joining
+- 📍 Based in Faridabad, Haryana, India
 
 <br clear="right"/>
 
@@ -59,39 +47,19 @@ const narvdeshwar = {
 
 <br/>
 
-## 🎯 Core Competencies
+## 🎯 Core Expertise
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><strong>React.js</strong>
-<br><sub>3+ Years</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-<br><sub>Backend Expert</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
-<br><sub>Database Design</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br><strong>Go</strong>
-<br><sub>Performance</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br><strong>Docker</strong>
-<br><sub>DevOps</sub>
-</td>
-</tr>
-</table>
+| Technology | Experience | Proficiency |
+|:----------:|:----------:|:-----------:|
+| **React.js** | 3+ Years | ⭐⭐⭐⭐⭐ |
+| **Node.js & Express** | 3+ Years | ⭐⭐⭐⭐⭐ |
+| **MongoDB** | 3+ Years | ⭐⭐⭐⭐⭐ |
+| **Go (Golang)** | 1+ Year | ⭐⭐⭐⭐ |
+| **Redux** | 2+ Years | ⭐⭐⭐⭐ |
+| **RESTful APIs** | 3+ Years | ⭐⭐⭐⭐⭐ |
+| **Git & GitHub** | 3+ Years | ⭐⭐⭐⭐⭐ |
 
 </div>
 
@@ -184,16 +152,12 @@ const narvdeshwar = {
 
 <div align="center">
 
-### 💼 Production-Ready Applications
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🛒 E-Commerce Platform
-**[Live Demo](#) | [Source Code](https://github.com/Narvdeshwar/mern)**
+**Full-Stack MERN Application**
 
 <br/>
 
@@ -201,45 +165,38 @@ const narvdeshwar = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=mern&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6" alt="E-Commerce Platform" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+**🛠️ Built With:**  
+React • Redux • Node.js • Express • MongoDB • Razorpay
 
-**🎯 Full-Stack MERN Application**
+**✨ What It Does:**
 
-```javascript
-const stack = {
-  frontend: ["React", "Redux", "Bootstrap"],
-  backend: ["Node.js", "Express"],
-  database: "MongoDB",
-  payment: "Razorpay Integration"
-};
-```
+A complete e-commerce solution where users can browse products, add items to cart, and make secure payments using Razorpay. The admin dashboard allows store managers to manage inventory, track orders, and view analytics in real-time.
 
-<br/>
+**🎯 Key Features:**
+- Secure user authentication with JWT
+- Shopping cart with persistent storage
+- Payment integration with Razorpay gateway
+- Real-time order status updates
+- Complete admin panel for product & order management
+- Email notifications for order confirmations
+- Fully responsive design for all devices
 
-**✨ Key Features & Achievements:**
-
-- 🔐 JWT-based secure authentication system
-- 💳 Integrated Razorpay payment gateway
-- 📦 Real-time order tracking & notifications
-- 👨‍💼 Complete admin dashboard with analytics
-- 🛍️ Full shopping cart & checkout flow
-- 📧 Automated email notifications
-- 📱 Fully responsive design
-- ⚡ Optimized performance & SEO
-
-**🎯 Impact:** Built production-ready e-commerce solution handling complete order lifecycle
+**💡 Technical Highlights:**
+- Clean MVC architecture
+- RESTful API design
+- Redux for efficient state management
+- Protected routes and role-based access
+- Optimized database queries
 
 <br/>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 💬 Real-Time Chat Application
-**[Live Demo](#) | [Source Code](https://github.com/Narvdeshwar/chatApp)**
+**WebSocket-Based Messaging System**
 
 <br/>
 
@@ -247,34 +204,30 @@ const stack = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=chatApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6" alt="Chat Application" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+**🛠️ Built With:**  
+Node.js • WebSockets • HTML5 • CSS3 • JavaScript
 
-**🎯 WebSocket-Based Messaging System**
+**✨ What It Does:**
 
-```javascript
-const stack = {
-  backend: ["Node.js", "WebSockets"],
-  frontend: ["HTML5", "CSS3", "JavaScript"],
-  realtime: "Socket.io"
-};
-```
+A real-time chat application that enables instant messaging between users. Messages are delivered instantly using WebSocket technology, and users can see who's online or offline at any given moment.
 
-<br/>
+**🎯 Key Features:**
+- Instant message delivery with WebSockets
+- Online/offline user status indicators
+- Typing indicators for active conversations
+- Clean and intuitive user interface
+- Multiple chat room support
+- Message history persistence
+- Mobile-friendly responsive design
 
-**✨ Key Features & Achievements:**
-
-- ⚡ Real-time bidirectional communication
-- 👥 Online/offline user presence system
-- 💬 Instant message delivery (< 100ms latency)
-- 🔔 Typing indicators & read receipts
-- 🎨 Clean, intuitive user interface
-- 🚀 Handles concurrent connections efficiently
-- 📱 Mobile-responsive design
-- 🔒 Secure WebSocket connections
-
-**🎯 Impact:** Developed scalable real-time messaging with low-latency performance
+**💡 Technical Highlights:**
+- Bidirectional real-time communication
+- Efficient connection handling
+- Low-latency message delivery
+- Event-driven architecture
+- Scalable WebSocket implementation
 
 <br/>
 
@@ -286,10 +239,8 @@ const stack = {
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### 🍽️ Restaurant Management Backend
-**[API Docs](#) | [Source Code](https://github.com/Narvdeshwar/Restaurant-Backend)**
+**Scalable RESTful API**
 
 <br/>
 
@@ -297,89 +248,76 @@ const stack = {
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=Restaurant-Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6" alt="Restaurant Backend" />
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
+**🛠️ Built With:**  
+Node.js • Express • MongoDB • JWT
 
-**🎯 Scalable RESTful API Backend**
+**✨ What It Does:**
 
-```javascript
-const stack = {
-  backend: ["Node.js", "Express.js"],
-  database: "MongoDB + Mongoose",
-  architecture: "MVC Pattern"
-};
-```
+A robust backend API for restaurant management that handles everything from menu management to order processing. Restaurant staff can manage their menu items, track orders in real-time, and generate sales reports.
 
-<br/>
+**🎯 Key Features:**
+- Complete menu CRUD operations
+- Order creation and status tracking
+- Secure authentication for staff
+- Role-based access control
+- Sales analytics and reporting
+- RESTful API endpoints
+- Comprehensive error handling
 
-**✨ Key Features & Achievements:**
-
-- 🍕 Complete menu management CRUD operations
-- 👨‍🍳 Order processing & status tracking system
-- 🔐 JWT authentication & role-based access
-- 📊 Sales analytics & reporting endpoints
-- 🎯 RESTful API design with proper status codes
-- ⚡ Optimized database queries (< 50ms response)
-- 📝 Comprehensive API documentation
-- 🧪 Input validation & error handling
-
-**🎯 Impact:** Built robust backend API serving restaurant operations efficiently
+**💡 Technical Highlights:**
+- MVC architecture pattern
+- MongoDB with Mongoose ODM
+- JWT-based authentication
+- Input validation and sanitization
+- Optimized database queries
+- Well-documented API endpoints
 
 <br/>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🎯 What I Bring to Your Team
+### 🎯 What Makes Me Different
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
-</div>
+<br/><br/>
+
+**💼 Professional Strengths:**
+
+**Technical Excellence**
+- Write clean, maintainable, and well-documented code
+- Strong understanding of data structures and algorithms
+- Experience with full development lifecycle
+- Test-driven development mindset
+
+**Problem Solving**
+- Active on LeetCode solving algorithmic challenges
+- Quick to learn and adapt to new technologies
+- Debug complex issues efficiently
+- Think critically about architecture decisions
+
+**Collaboration & Communication**
+- Work effectively in Agile/Scrum teams
+- Clear technical communication skills
+- Document code and processes thoroughly
+- Open to feedback and code reviews
+
+**Work Ethic**
+- Take ownership of projects
+- Meet deadlines consistently
+- Self-motivated and proactive
+- Passionate about continuous learning
 
 <br/>
 
-**💼 Professional Skills:**
-
-```javascript
-const professionalValue = {
-  technicalExpertise: {
-    fullStack: "End-to-end application development",
-    problemSolving: "Algorithm & data structures (LeetCode)",
-    codeQuality: "Clean, maintainable, documented code",
-    testing: "Unit & integration testing experience"
-  },
-  
-  softSkills: {
-    communication: "Clear technical documentation",
-    teamwork: "Agile/Scrum methodologies",
-    learning: "Quick to adapt new technologies",
-    ownership: "Takes initiative on projects"
-  },
-  
-  deliverables: {
-    code: "Production-ready, scalable solutions",
-    timeline: "Meets deadlines consistently",
-    quality: "Thorough testing & bug fixing",
-    documentation: "Comprehensive code comments"
-  }
-};
-```
-
-<br/>
-
-**🎯 Ready to Contribute:**
-
-- ✅ Immediate availability for joining
-- ✅ 3+ years production experience
-- ✅ Strong problem-solving skills
-- ✅ Team collaboration experience
-- ✅ Continuous learner & self-starter
-- ✅ Portfolio of completed projects
+**📍 Location:** Faridabad, Haryana, India  
+**💼 Status:** Open to full-time opportunities  
+**📅 Availability:** Immediate joining possible
 
 <br/>
 
@@ -427,15 +365,12 @@ const professionalValue = {
 
 <br/>
 
-## 🧮 Problem Solving & Competitive Programming
+## 🧮 Problem Solving & LeetCode
 
 <div align="center">
 
 <a href="https://leetcode.com/u/Narvdeshwar/">
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNarvdeshwar&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-</a>
-<a href="https://leetcode.com/u/Narvdeshwar/">
-<img src="https://img.shields.io/badge/LeetCode-Active-success?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Active"/>
 </a>
 
 <br/><br/>
@@ -444,15 +379,10 @@ const professionalValue = {
 
 <br/>
 
-**🎯 Problem Solving Stats**
+I actively practice problem-solving on LeetCode to sharpen my algorithmic thinking and data structure knowledge. This helps me write more efficient code and tackle complex challenges in real-world projects.
 
-<img src="https://img.shields.io/badge/Easy-100+-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Medium-50+-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hard-10+-red?style=for-the-badge" />
-
-<br/>
-
-**💡 Areas of Expertise:** Arrays • Strings • Dynamic Programming • Trees • Graphs • Hash Tables
+**🎯 Problem Categories I Focus On:**  
+Arrays • Strings • Dynamic Programming • Trees • Graphs • Hash Tables • Sorting & Searching
 
 </div>
 
@@ -462,67 +392,91 @@ const professionalValue = {
 
 <br/>
 
-## 💼 Professional Skills Matrix
+## 💼 Skills & Expertise
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
 ### 🎨 Frontend Development
+
 <br/>
 
 <img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind" />
 
 <br/><br/>
 
-**Core Competencies:**
-- ⚛️ **React.js** - 3+ Years Experience
-- 🔄 **Redux** - State Management Expert
-- 🎨 **UI/UX** - Responsive & Accessible Design
-- 📱 **Mobile-First** - Progressive Web Apps
-- ⚡ **Performance** - Code Splitting & Lazy Loading
-- 🧪 **Testing** - Jest & React Testing Library
-- 🎭 **CSS Frameworks** - Bootstrap, Tailwind
+**What I Build:**
+- Interactive web applications with React
+- Complex state management with Redux
+- Responsive designs that work on all devices
+- Modern UI components with Bootstrap & Tailwind
+- Progressive Web Apps (PWAs)
+- Performance-optimized frontends
+
+**Key Skills:**
+- Component architecture
+- Hooks and functional components
+- State management patterns
+- API integration
+- Form handling and validation
+- Accessibility best practices
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
 ### ⚙️ Backend Development
+
 <br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,postman,firebase" />
 
 <br/><br/>
 
-**Core Competencies:**
-- 🟢 **Node.js & Express** - RESTful APIs
-- 🔷 **Go (Golang)** - High-Performance Services
-- 🗄️ **Database Design** - MongoDB, MySQL
-- 🔐 **Security** - JWT, OAuth, Encryption
-- 📡 **Real-time** - WebSockets, Socket.io
-- 💳 **Integrations** - Payment Gateways
-- 🏗️ **Architecture** - Microservices, MVC
+**What I Build:**
+- RESTful APIs with Node.js & Express
+- High-performance services with Go
+- Database schemas and models
+- Authentication & authorization systems
+- Real-time features with WebSockets
+- Payment gateway integrations
+
+**Key Skills:**
+- API design and development
+- Database modeling (MongoDB, SQL)
+- JWT authentication
+- Middleware implementation
+- Error handling
+- Security best practices
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools & Practices
+
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,npm" />
 
 <br/><br/>
 
-**Core Competencies:**
-- 📦 **Version Control** - Git, GitHub
-- 🐳 **Containerization** - Docker Basics
-- 💻 **Development** - VS Code, Terminal
-- 🧪 **API Testing** - Postman, Thunder Client
-- 📋 **Methodologies** - Agile, Scrum
-- 🔧 **Package Managers** - NPM, Yarn
-- 🐧 **Operating Systems** - Linux, Windows
+**How I Work:**
+- Version control with Git & GitHub
+- Code testing and debugging
+- API testing with Postman
+- Work in Agile/Scrum environments
+- Write clean, documented code
+- Collaborate through code reviews
+
+**Key Skills:**
+- Git workflow & branching
+- Package management (NPM/Yarn)
+- Development environments setup
+- Basic Docker containerization
+- Linux command line
+- Problem-solving mindset
 
 </td>
 </tr>
@@ -544,13 +498,13 @@ const professionalValue = {
 <tr>
 <td align="center" width="50%">
 
-**🎓 Web Development Training**
+**🎓 Full Stack Web Development**
 
 <img src="https://img.shields.io/badge/Techsrijan_Consultancy-2023-6366f1?style=for-the-badge" />
 
-*Full Stack MERN Development*
+<br/>
 
-**Skills Gained:** React.js, Node.js, Express, MongoDB, Redux, REST APIs
+Comprehensive training in MERN Stack development covering React.js, Node.js, Express, MongoDB, and modern web development practices.
 
 </td>
 <td align="center" width="50%">
@@ -559,9 +513,9 @@ const professionalValue = {
 
 <img src="https://img.shields.io/badge/Mahindra_Pride_Classroom-2023-8b5cf6?style=for-the-badge" />
 
-*Professional Skills Enhancement*
+<br/>
 
-**Skills Gained:** Communication, Leadership, Teamwork, Problem Solving
+Professional skills training focusing on communication, leadership, teamwork, and workplace effectiveness.
 
 </td>
 </tr>
@@ -581,7 +535,7 @@ const professionalValue = {
 
 <br/>
 
-## 📫 Let's Connect & Collaborate
+## 📫 Get In Touch
 
 <div align="center">
 
@@ -589,58 +543,46 @@ const professionalValue = {
 
 <br/><br/>
 
-### 💼 Open to Full-Time Opportunities
+I'm always open to discussing new opportunities, interesting projects, or just connecting with fellow developers. Feel free to reach out!
+
+<br/>
 
 <a href="https://www.linkedin.com/in/narvdeshwar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Narvdeshwar">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://leetcode.com/u/Narvdeshwar/">
-<img src="https://img.shields.io/badge/LeetCode-Visit-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+<img src="https://img.shields.io/badge/LeetCode-View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-### 🎯 What I'm Looking For
+### 💼 Currently Seeking Full-Time Opportunities
 
-```javascript
-const idealOpportunity = {
-  role: ["Full Stack Developer", "Backend Developer", "Software Engineer"],
-  company: "Innovative tech company with growth opportunities",
-  environment: "Collaborative team that values learning",
-  technologies: "Modern tech stack (React, Node.js, Go, Cloud)",
-  culture: "Work-life balance, mentorship, continuous learning"
-};
-```
+I'm looking for a role where I can contribute to meaningful projects, continue learning, and grow as a developer. I'm particularly interested in positions that involve:
 
-<br/>
+- Building scalable web applications
+- Working with modern tech stacks
+- Collaborative team environments
+- Opportunities for mentorship and growth
+- Solving challenging problems
 
-### 💡 Why Work With Me?
-
-**✅ Quick Learner** - Adapts rapidly to new technologies and domains  
-**✅ Problem Solver** - Analytical thinking & algorithm expertise  
-**✅ Team Player** - Collaborative & excellent communication  
-**✅ Quality Focused** - Clean code, testing, documentation  
-**✅ Self-Motivated** - Takes ownership & initiative  
-**✅ Available Now** - Ready for immediate joining
+**Status:** Available for immediate joining  
+**Location:** Faridabad, Haryana, India (Open to relocation)  
+**Work Mode:** Open to remote, hybrid, or on-site opportunities
 
 <br/>
 
-### 📊 Quick Stats
+---
 
-<img src="https://img.shields.io/badge/Experience-3%2B_Years-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Projects-Production_Ready-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Availability-Immediate-brightgreen?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Faridabad%2C_India-orange?style=for-the-badge" />
+<br/>
 
-<br/><br/>
-
-### 💬 *"First, solve the problem. Then, write the code."* - John Johnson
+### 💡 *"First, solve the problem. Then, write the code."* - John Johnson
 
 <br/>
 
@@ -648,16 +590,14 @@ const idealOpportunity = {
 
 <br/><br/>
 
-**⭐ If you like my projects, consider giving them a star!**
+**Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out.**
 
-**🤝 Open to interesting project collaborations**
-
-**📫 Feel free to reach out for opportunities or discussions**
+**⭐ If you find my projects helpful or interesting, consider giving them a star!**
 
 <br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
