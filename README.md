@@ -8,7 +8,7 @@
 
 </div>
 
-Profile view: [![GitHub Views](https://komarev.com/ghpvc/?Narvdeshwar=natterstefan&color=FAC151)][1]
+Profile view: ![](https://komarev.com/ghpvc/?username=narvdeshwar)
 
 
 <br/>
