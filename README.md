@@ -8,9 +8,6 @@
 
 </div>
 
-Profile view: ![](https://komarev.com/ghpvc/?username=narvdeshwar)
-
-
 <br/>
 
 <div align="center">
