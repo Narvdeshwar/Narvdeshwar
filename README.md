@@ -25,8 +25,8 @@
 ## 👨‍💻 About Me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </picture>
 
 <div>
@@ -41,7 +41,7 @@ Hey there! 👋 I'm **Narvdeshwar**, a passionate Full Stack Developer with over
 - 📚 Continuously learn and adapt to new technologies
 
 **Currently:**
-- 🌱 Deepening my knowledge in system design and microservices architecture
+- 🌱 Deepening my knowledge in **system design** and **microservices architecture**
 - 💼 Open to full-time opportunities where I can make an impact
 - 🤝 Available for immediate joining
 - 📍 Based in New Delhi, India
@@ -189,91 +189,8 @@ Hey there! 👋 I'm **Narvdeshwar**, a passionate Full Stack Developer with over
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform
-**Full-Stack MERN Application**
-
-<br/>
-
-<a href="https://github.com/Narvdeshwar/mern">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=mern&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6" alt="E-Commerce Platform" />
-</a>
-
-<br/><br/>
-
-**🛠️ Built With:**  
-React • Redux • Node.js • Express • MongoDB • Razorpay
-
-**✨ What It Does:**
-
-A complete e-commerce solution where users can browse products, add items to cart, and make secure payments using Razorpay. The admin dashboard allows store managers to manage inventory, track orders, and view analytics in real-time.
-
-**🎯 Key Features:**
-- Secure user authentication with JWT
-- Shopping cart with persistent storage
-- Payment integration with Razorpay gateway
-- Real-time order status updates
-- Complete admin panel for product & order management
-- Email notifications for order confirmations
-- Fully responsive design for all devices
-
-**💡 Technical Highlights:**
-- Clean MVC architecture
-- RESTful API design
-- Redux for efficient state management
-- Protected routes and role-based access
-- Optimized database queries
-
-<br/>
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat Application
-**WebSocket-Based Messaging System**
-
-<br/>
-
-<a href="https://github.com/Narvdeshwar/chatApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=chatApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6" alt="Chat Application" />
-</a>
-
-<br/><br/>
-
-**🛠️ Built With:**  
-Node.js • WebSockets • HTML5 • CSS3 • JavaScript
-
-**✨ What It Does:**
-
-A real-time chat application that enables instant messaging between users. Messages are delivered instantly using WebSocket technology, and users can see who's online or offline at any given moment.
-
-**🎯 Key Features:**
-- Instant message delivery with WebSockets
-- Online/offline user status indicators
-- Typing indicators for active conversations
-- Clean and intuitive user interface
-- Multiple chat room support
-- Message history persistence
-- Mobile-friendly responsive design
-
-**💡 Technical Highlights:**
-- Bidirectional real-time communication
-- Efficient connection handling
-- Low-latency message delivery
-- Event-driven architecture
-- Scalable WebSocket implementation
-
-<br/>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### 🍽️ Restaurant Management Backend
-**Scalable RESTful API**
+**Scalable MERN Stack API**
 
 <br/>
 
@@ -283,82 +200,76 @@ A real-time chat application that enables instant messaging between users. Messa
 
 <br/><br/>
 
-**🛠️ Built With:**  
+**🛠️ Built With:**  
 Node.js • Express • MongoDB • JWT
 
-**✨ What It Does:**
+**✨ The Core Idea:**
 
-A robust backend API for restaurant management that handles everything from menu management to order processing. Restaurant staff can manage their menu items, track orders in real-time, and generate sales reports.
+A robust, enterprise-ready **RESTful API** built on the MERN stack (Node/Express/MongoDB) to manage all aspects of a restaurant, including menu creation, real-time order tracking, and staff authentication. It showcases mastery in full-stack JavaScript development and database modeling.
 
-**🎯 Key Features:**
-- Complete menu CRUD operations
-- Order creation and status tracking
-- Secure authentication for staff
-- Role-based access control
-- Sales analytics and reporting
-- RESTful API endpoints
-- Comprehensive error handling
+**🎯 Key Differentiators:**
+* **Full CRUD & Management:** Handles complex business logic for products, orders, and sales data.
+* **Secure Authentication:** Implements **Role-Based Access Control (RBAC)** using **JSON Web Tokens (JWT)** to secure endpoints and distinguish between staff roles (e.g., Manager vs. Waiter).
+* **Database Efficiency:** Uses Mongoose ODM to optimize MongoDB queries, ensuring fast data retrieval under load.
 
-**💡 Technical Highlights:**
-- MVC architecture pattern
-- MongoDB with Mongoose ODM
-- JWT-based authentication
-- Input validation and sanitization
-- Optimized database queries
-- Well-documented API endpoints
+**💡 Technical Insight: MVC Pattern**
+The project adheres strictly to the **Model-View-Controller (MVC)** architectural pattern. This separation of concerns makes the codebase **clean, maintainable,** and highly **testable**, forming the foundation for reliable, long-term applications.
 
 <br/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 What Makes Me Different
+### 🌐 Golang Microservices
+**High-Performance Backend Architecture**
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<a href="https://github.com/Narvdeshwar/golang-microservices">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=golang-microservices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6" alt="Golang Microservices" />
+</a>
 
 <br/><br/>
 
-**💼 Professional Strengths:**
+**🛠️ Built With:**  
+Go (Golang) • Gin Framework • PostgreSQL • Docker
 
-**Technical Excellence**
-- Write clean, maintainable, and well-documented code
-- Strong understanding of data structures and algorithms
-- Experience with full development lifecycle
-- Test-driven development mindset
+**✨ The Core Idea:**
 
-**Problem Solving**
-- Active on LeetCode solving algorithmic challenges
-- Quick to learn and adapt to new technologies
-- Debug complex issues efficiently
-- Think critically about architecture decisions
+This project uses **Go's high concurrency** features (Goroutines) to build a **Microservices Architecture** where different business domains (like Users, Products) run as independent, lightweight services. This approach ensures **scalability** and **fault tolerance**—if one service fails, the others remain operational.
 
-**Collaboration & Communication**
-- Work effectively in Agile/Scrum teams
-- Clear technical communication skills
-- Document code and processes thoroughly
-- Open to feedback and code reviews
+**🎯 Key Differentiators:**
+* **Decoupled Services:** Achieves maximum independence, which is critical for continuous deployment.
+* **High Concurrency:** Leverages Goroutines for handling thousands of requests simultaneously with **low latency**.
+* **Containerization (Docker):** Guarantees that the development, testing, and production environments are identical, simplifying deployment.
 
-**Work Ethic**
-- Take ownership of projects
-- Meet deadlines consistently
-- Self-motivated and proactive
-- Passionate about continuous learning
-
-<br/>
-
-**📍 Location:** New Delhi, India  
-**💼 Status:** Open to full-time opportunities  
-**📅 Availability:** Immediate joining possible
+**💡 Technical Insight: Concurrency vs. Parallelism**
+Go excels here by using Goroutines for **concurrency** (managing many tasks simultaneously), which is distinct from **parallelism** (running many tasks simultaneously). This design allows the services to handle high traffic efficiently.
 
 <br/>
 
 </td>
 </tr>
-</table>
 
+</table>
 </div>
+
+# What Makes Me Different
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+
+**Professional Strengths:**
+
+**Technical Excellence**
+- **Architecture First:** Prioritizing system design and modularity (Microservices, MVC).
+- **Efficiency:** Strong focus on Go concurrency and optimized database interaction.
+- **Foundational Strength:** Expertise in **Data Structures and Algorithms** (LeetCode practice).
+
+**Execution & Collaboration**
+- **Agile Workflow:** Experience working effectively in **Scrum/Agile** environments.
+- **Code Quality:** Commitment to **clean, well-documented code** and thorough code reviews.
+- **Proactive Ownership:** Takes responsibility for projects from concept to production.
+
+<br/>
 
 <br/>
 
@@ -366,22 +277,14 @@ A robust backend API for restaurant management that handles everything from menu
 
 <br/>
 
-## 📊 GitHub Statistics
+## **GitHub Statistics**
 
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Narvdeshwar&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=6b7280&sideLabels=8b5cf6" alt="GitHub Streak" />
+<img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 
-</div>
 
-<br/>
-
-<div align="center">
-  
+<div>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narvdeshwar&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide=Jupyter%20Notebook" alt="Top Languages" />
 <img width="49%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=Narvdeshwar&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=8b5cf6" alt="Top Contributed Repo" />
-
 </div>
 
 <br/>
@@ -398,23 +301,23 @@ A robust backend API for restaurant management that handles everything from menu
 
 <br/>
 
-## 🧮 Problem Solving & LeetCode
+## **Problem Solving & LeetCode**
 
-<div align="center">
+<div>
 
 <a href="https://leetcode.com/u/Narvdeshwar/">
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNarvdeshwar&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+<img width="100%" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNarvdeshwar&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
 </a>
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/Narvdeshwar?theme=dark&font=Ubuntu&ext=contest&animation=true" alt="LeetCode Stats"/>
+<img width="100%" src="https://leetcard.jacoblin.cool/Narvdeshwar?theme=dark&font=Ubuntu&ext=contest&animation=true" alt="LeetCode Stats"/>
 
 <br/>
 
 I actively practice problem-solving on LeetCode to sharpen my algorithmic thinking and data structure knowledge. This helps me write more efficient code and tackle complex challenges in real-world projects.
 
-**🎯 Problem Categories I Focus On:**  
+**🎯 Problem Categories I Focus On:**  
 Arrays • Strings • Dynamic Programming • Trees • Graphs • Hash Tables • Sorting & Searching
 
 </div>
@@ -570,7 +473,7 @@ Professional skills training focusing on communication, leadership, teamwork, an
 
 ## 📫 Get In Touch
 
-<div align="center">
+<div>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
@@ -605,8 +508,8 @@ I'm looking for a role where I can contribute to meaningful projects, continue l
 - Opportunities for mentorship and growth
 - Solving challenging problems
 
-**Status:** Available for immediate joining  
-**Location:** New Delhi, India (Open to relocation)  
+**Status:** Available for immediate joining  
+**Location:** New Delhi, India (Open to relocation)  
 **Work Mode:** Open to remote, hybrid, or on-site opportunities
 
 <br/>
