@@ -79,12 +79,12 @@ Hey there! 👋 I'm **Narvdeshwar**, a passionate Full Stack Developer with over
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=go" width="20"/> <b>Go (Golang)</b></td>
-<td>1+ Year</td>
+<td>3+ Year</td>
 <td>⭐⭐⭐⭐</td>
 </tr>
 <tr>
 <td><img src="https://skillicons.dev/icons?i=redux" width="20"/> <b>Redux</b></td>
-<td>2+ Years</td>
+<td>3+ Years</td>
 <td>⭐⭐⭐⭐</td>
 </tr>
 <tr>
