@@ -1,140 +1,160 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117,161b22&height=220&section=header&text=NARVDESHWAR&fontSize=90&fontAlignY=45&animation=twinkling&fontColor=58a6ff&desc=Golang%20Backend%20Engineer%20%E2%80%A2%203%2B%20Years%20Experience&descAlignY=70&descSize=28" width="100%"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narvdeshwar&theme=tokyonight&area=true&hide_border=true&point=58a6ff&custom_title=Contribution%20Activity" width="100%"/>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Golang+Backend+Systems;High-Throughput+Microservices;Kubernetes+%26+Distributed+Databases;Building+Resilient+Cloud-Native+Backends" alt="Typing Animation" />
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Narvdeshwar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Narvdeshwar?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/Narvdeshwar)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=200&section=header&text=NARVDESHWAR&fontSize=80&fontAlignY=40&animation=fadeIn&fontColor=58a6ff&desc=Golang%20Backend%20Engineer%20%7C%203%2B%20Years%20%7C%20Noida%2C%20India&descAlignY=65&descSize=22" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Golang+Backend+Engineer+%7C+3%2B+YOE;High-Throughput+Microservices+%7C+10k%2B+RPS;Kubernetes+%26+Cloud-Native+Architectures;gRPC+%7C+Kafka+%7C+PostgreSQL+%7C+Redis;React+%26+Next.js+Full-Stack+Capabilities" alt="Typing SVG" />
+
 </div>
 
-<br/>
+---
 
-<h2 align="center" style="color: #58a6ff;">👋 About Me</h2>
+## 👨‍💻 About Me
 
-<p align="center" style="font-size: 18px; max-width: 800px; margin: 0 auto; color: #c9d1d9; line-height: 1.7;">
-Golang Backend Engineer with <strong>3+ years</strong> of hands-on experience designing, building, and scaling production-grade backend systems.  
-Specialized in high-performance APIs, microservices architecture, concurrency patterns (goroutines/channels), container orchestration (Kubernetes), and cloud-native infrastructure on AWS.  
-Passionate about clean, idiomatic Go code for reliable, distributed systems. Based in Noida, India | Open to remote roles.
-</p>
+**Golang Backend Engineer** with **3+ years** of hands-on experience building and scaling production-grade distributed systems.
 
-<br/>
+- 🚀 Specialized in **high-performance APIs**, **microservices architecture**, and **Go concurrency patterns** (goroutines, channels, context)
+- ☸️ Proficient in **Kubernetes** (EKS/GKE), container orchestration & cloud-native infrastructure on **AWS**
+- ⚡ Delivered **70%+ latency reductions** through Redis caching, query tuning & efficient goroutine concurrency
+- 🔶 Secondary proficiency in **React** & **Next.js** for full-stack capabilities
+- 📍 Based in **Noida, India** — Open to **remote** and **hybrid** roles globally
 
-<h2 align="center" style="color: #58a6ff;">🛠️ Tech Stack & Expertise</h2>
+---
 
-<div align="center" style="margin: 25px 0;">
-  <img src="https://skillicons.dev/icons?i=go,golang,kubernetes,docker,aws,postgres,redis,mongodb,kafka,git,githubactions,terraform&perline=6" alt="Tech Icons"/>
-</div>
+## 🛠️ Tech Stack
 
-<table align="center" style="color: #c9d1d9; font-size: 16px; max-width: 900px;" cellpadding="12">
-  <tr>
-    <td><strong>Primary Language</strong></td>
-    <td>Golang (Go) — concurrency, goroutines, channels, context, interfaces, error handling, benchmarking</td>
-  </tr>
-  <tr>
-    <td><strong>API & Frameworks</strong></td>
-    <td>REST (Gin, Echo, Fiber), gRPC, Clean/Onion Architecture</td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Caching</strong></td>
-    <td>PostgreSQL, Redis (caching/pub-sub), MongoDB</td>
-  </tr>
-  <tr>
-    <td><strong>Distributed Systems</strong></td>
-    <td>Microservices, Kafka/RabbitMQ, eventual consistency patterns</td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Cloud</strong></td>
-    <td>Docker, Kubernetes (EKS/GKE), AWS (EC2, ECS, RDS, S3), Terraform, CI/CD</td>
-  </tr>
-  <tr>
-    <td><strong>Observability & Quality</strong></td>
-    <td>Prometheus, Grafana, unit/integration tests, logging</td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center" style="color: #58a6ff;">💼 Professional Highlights</h2>
-
-<ul style="color: #c9d1d9; font-size: 17px; max-width: 850px; margin: 0 auto; line-height: 1.8; list-style-type: none;">
-  <li>🚀 Developed Golang backend services for high-throughput applications (10k+ RPS capable designs)</li>
-  <li>🛡️ Implemented resilient microservices on Kubernetes with auto-scaling & zero-downtime strategies</li>
-  <li>⚡ Reduced latency via Redis caching, query optimization & efficient concurrency → up to 70% faster responses</li>
-  <li>🔒 Built secure systems with JWT/OAuth2, rate limiting & structured logging</li>
-  <li>🌐 Experience with AWS cloud-native setups, Docker containers & IaC (Terraform)</li>
-</ul>
-
-<br/>
+### 🔷 Primary — Golang Backend (Expert)
 
 <div align="center">
-  <table width="100%" border="0" cellpadding="15">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Narvdeshwar&theme=tokyonight&no-bg=true&margin-w=15&column=3" width="100%"/>
-      </td>
-    </tr>
-  </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Narvdeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" width="60%"/>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 </div>
 
-<br/>
-
-<h2 align="center" style="color: #58a6ff;">🔥 Featured Golang Projects</h2>
-
-<p align="center" style="color: #8b949e;">Showcasing production-grade Go backend engineering, concurrency & microservices patterns</p>
+### 🔶 Secondary — React / Next.js (Proficient)
 
 <div align="center">
-  <!-- Pin these repos in your GitHub profile settings for them to appear here! -->
-  <a href="https://github.com/Narvdeshwar/golang-microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=golang-microservices&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Narvdeshwar/go-logstreamer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=go-logstreamer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%"/>
-  </a>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </div>
 
-<p align="center" style="color: #8b949e; margin-top: 15px;">
-  → Pin more Go projects (e.g., gRPC service, Gin API, distributed worker) to strengthen this section. Ensure each has a strong README with architecture, endpoints, and setup.
-</p>
-
-<br/>
+### ☁️ DevOps & Cloud
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Narvdeshwar/Narvdeshwar/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake"/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 </div>
 
-<br/>
+---
 
-<h2 align="center" style="color: #58a6ff;">📫 Let's Connect</h2>
+## 💼 Professional Highlights
+
+| Impact | Detail |
+|--------|--------|
+| ⚡ **High-Throughput APIs** | Designed Golang backend services capable of handling **10,000+ RPS** with sub-100ms latency |
+| 🚀 **Latency Optimization** | Reduced API response times by **up to 70%** via Redis caching, query optimization & goroutine tuning |
+| ☸️ **Kubernetes Orchestration** | Deployed resilient microservices on **EKS/GKE** with HPA auto-scaling & zero-downtime rolling deployments |
+| 🔒 **Security & Auth** | Implemented **JWT/OAuth2**, rate limiting, structured logging & input validation across production services |
+| 🌊 **Event-Driven Architecture** | Built async pipelines using **Kafka & RabbitMQ** with idempotency & dead-letter queue patterns |
+| 🏗️ **Clean Architecture** | Enforced **Onion/Hexagonal architecture** patterns across teams for maintainable, testable Go codebases |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/narvdeshwar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@here.com"> <!-- Update with real email -->
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://narvdeshwar.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/Narvdeshwar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Narvdeshwar&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Narvdeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" width="45%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narvdeshwar&theme=tokyo-night&area=true&hide_border=true&color=58a6ff&line=58a6ff&point=58a6ff&bg_color=0d1117&custom_title=Contribution%20Activity%20Graph" width="95%"/>
+
 </div>
 
-<p align="center" style="color: #8b949e; margin-top: 20px;">
-Open to Golang Backend Engineer roles • Remote-friendly • Noida, India • 3+ YOE
-</p>
+---
 
-<br/>
+## 🏆 Achievements
 
-<div align="center" style="color: #30363d; font-family: 'JetBrains Mono', monospace; font-size: 14px;">
-[ STATUS: GOLANG_BACKEND_OPTIMIZED // SEEKING: Go Developer Opportunities // UPDATED: March 2026 ]
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Narvdeshwar&theme=tokyonight&no-bg=true&margin-w=10&column=6" width="100%"/>
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Narvdeshwar/golang-microservices">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=golang-microservices&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%"/>
+</a>
+&nbsp;
+<a href="https://github.com/Narvdeshwar/go-logstreamer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Narvdeshwar&repo=go-logstreamer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="45%"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Narvdeshwar/Narvdeshwar/output/snake.svg" width="90%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narvdeshwar/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@here.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://narvdeshwar.github.io/portfolio/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Narvdeshwar/)
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to:** `Golang Backend Engineer` • `Backend SDE II/III` • `Platform Engineer` • `Full-Stack (Go + React/Next.js)`
+
+**Skills:** `Go` `Golang` `gRPC` `REST API` `Microservices` `Kubernetes` `Docker` `AWS` `PostgreSQL` `Redis` `Kafka` `React` `Next.js` `TypeScript` `Terraform` `CI/CD` `Clean Architecture`
+
+![Profile Views](https://komarev.com/ghpvc/?username=Narvdeshwar&color=58a6ff&style=flat-square&label=Total+Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+
 </div>
