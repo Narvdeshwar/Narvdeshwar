@@ -98,15 +98,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Narvdeshwar&theme=tokyonight&no-bg=true&margin-w=10&column=6" width="100%"/>
-
-</div>
-
----
 
 ## 🔥 Featured Projects
 
