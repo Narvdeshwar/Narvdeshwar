@@ -120,6 +120,20 @@ I write code that's boring in production and interesting on paper — optimized 
 
 ---
 
+## 📊 Detailed Insights
+
+<div align="center">
+  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="49%"/>
+  <img src="profile-summary-card-output/default/4-productive-time.svg" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/default/0-profile-details.svg" width="49%"/>
+  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="49%"/>
+</div>
+
+---
+
 ## 📫 Contact
 
 <div align="center">
