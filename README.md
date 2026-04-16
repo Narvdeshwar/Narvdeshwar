@@ -114,7 +114,7 @@ I write code that's boring in production and interesting on paper — optimized 
 ## 📸 Activity Dashboard
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Narvdeshwar/Narvdeshwar/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Dashboard"/>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Dashboard"/>
 </div>
 
 ---
