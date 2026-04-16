@@ -98,16 +98,10 @@ I write code that's boring in production and interesting on paper — optimized 
 
 ---
 
-## 📊 GitHub Stats
+## 🏙️ The Engineering City (Insights & Metrics)
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fa3e0&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narvdeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fa3e0&text_color=c9d1d9&langs_count=8" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Narvdeshwar&theme=tokyonight&hide_border=true&background=0d1117&ring=4fa3e0&fire=4fa3e0&currStreakLabel=c9d1d9" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narvdeshwar&theme=tokyo-night&area=true&hide_border=true&color=4fa3e0&line=4fa3e0&point=ffffff&bg_color=0d1117" width="49%"/>
-
+  <img src="github-metrics.svg" width="100%" alt="Detailed GitHub Metrics and Language City"/>
 </div>
 
 ---
@@ -116,20 +110,6 @@ I write code that's boring in production and interesting on paper — optimized 
 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Dashboard"/>
-</div>
-
----
-
-## 📊 Detailed Insights
-
-<div align="center">
-  <img src="profile-summary-card-output/default/2-most-commit-language.svg" width="49%"/>
-  <img src="profile-summary-card-output/default/4-productive-time.svg" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="profile-summary-card-output/default/0-profile-details.svg" width="49%"/>
-  <img src="profile-summary-card-output/default/1-repos-per-language.svg" width="49%"/>
 </div>
 
 ---
