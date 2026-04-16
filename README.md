@@ -98,10 +98,15 @@ I write code that's boring in production and interesting on paper — optimized 
 
 ---
 
-## 🏙️ The Engineering City (Insights & Metrics)
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-metrics.svg" width="100%" alt="Detailed GitHub Metrics and Language City"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Narvdeshwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fa3e0&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Narvdeshwar&theme=tokyonight&hide_border=true&background=0d1117&ring=4fa3e0&fire=4fa3e0&currStreakLabel=c9d1d9" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narvdeshwar&theme=tokyo-night&area=true&hide_border=true&color=4fa3e0&line=4fa3e0&point=ffffff&bg_color=0d1117" width="97%"/>
+
 </div>
 
 ---
@@ -109,7 +114,7 @@ I write code that's boring in production and interesting on paper — optimized 
 ## 📸 Activity Dashboard
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Dashboard"/>
+  <img src="https://raw.githubusercontent.com/Narvdeshwar/Narvdeshwar/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Dashboard"/>
 </div>
 
 ---
