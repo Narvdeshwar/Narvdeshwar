@@ -4,8 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&pause=1200&color=4FA3E0&center=true&vCenter=true&width=750&lines=Building+systems+that+scale+to+millions.;Go+%7C+gRPC+%7C+Kafka+%7C+Kubernetes+%7C+PostgreSQL;10%2C000%2B+RPS+APIs+%7C+Sub-100ms+Latency;Clean+Architecture+%7C+Event-Driven+%7C+Cloud-Native)](https://github.com/Narvdeshwar)
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Narvdeshwar&label=Profile%20Views&color=4fa3e0&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Narvdeshwar?label=Followers&style=for-the-badge&color=4fa3e0" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Narvdeshwar?affiliations=OWNER&label=Stars&style=for-the-badge&color=4fa3e0" alt="Stars"/>
+</p>
 
+</div>
 ---
 
 ## $ whoami
