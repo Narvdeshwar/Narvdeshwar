@@ -124,6 +124,13 @@ I write code that's boring in production and interesting on paper — optimized 
 
 ---
 
+## 🚀 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📫 Contact
 
 <div align="center">
