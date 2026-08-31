@@ -4,8 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&pause=1200&color=4FA3E0&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+at+scale.;Golang+%7C+React+%7C+Next.js+%7C+AI%2FML;Generative+AI+%7C+LLMs+%7C+Agentic+Workflows;High-Performance+Backends+%7C+Modern+Frontends)](https://github.com/Narvdeshwar)
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Narvdeshwar&label=Profile%20Views&color=4fa3e0&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Narvdeshwar?label=Followers&style=for-the-badge&color=4fa3e0" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Narvdeshwar?affiliations=OWNER&label=Stars&style=for-the-badge&color=4fa3e0" alt="Stars"/>
+</p>
 
+</div>
 ---
 
 ## $ whoami
@@ -120,6 +125,13 @@ I write code that's robust in production and optimized for **correctness, perfor
 <div align="center">
   <img src="https://raw.githubusercontent.com/Narvdeshwar/Narvdeshwar/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Dashboard"/>
 </div>
+
+---
+
+## 🚀 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
