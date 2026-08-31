@@ -19,7 +19,7 @@
 type Engineer struct {
     Name       string   // Narvdeshwar
     Role       string   // Full-Stack AI Engineer
-    Experience string   // 3+ Years
+    Experience string   // 3 Years, 8 Months
     Focus      []string // Golang, React, Next.js, Artificial Intelligence, Machine Learning
     Location   string   // Noida, India — Remote/Hybrid Open
 }
@@ -58,6 +58,18 @@ I build **intelligent, scalable, and production-grade systems** — bridging the
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**JSPARK** | *Software Developer*
+> **Nov 2024 – Present**
+> - Developing and maintaining software solutions, leveraging modern full-stack technologies and AI integration.
+
+**GlobalLogic** | *Software Engineer*
+> **Dec 2022 – Nov 2024**
+> - Built and optimized high-performance backend systems and applications over a two-year tenure, focusing on scalability and reliability.
 
 ---
 
