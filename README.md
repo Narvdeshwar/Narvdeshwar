@@ -143,6 +143,7 @@ I write code that's robust in production and optimized for **correctness, perfor
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#5](https://github.com/Narvdeshwar/portfolio/pull/5) in [Narvdeshwar/portfolio](https://github.com/Narvdeshwar/portfolio)
 <!--END_SECTION:activity-->
 
 ---
